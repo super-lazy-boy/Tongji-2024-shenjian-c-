@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\4-b13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D33D3D27-EC0B-4BFD-B10C-E98EA470B34D}|4-b12-2.c\\4-b12-2.c.vcxproj|E:\\code\\4-b13\\4-b12-2.c\\4-b13-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D33D3D27-EC0B-4BFD-B10C-E98EA470B34D}|4-b12-2.c\\4-b12-2.c.vcxproj|solutionrelative:4-b12-2.c\\4-b13-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3CC797-7FC0-4A36-89D9-2B3BDA9FD213}|4-b13-1.cpp\\4-b13-1.cpp.vcxproj|E:\\code\\4-b13\\4-b13-1.cpp\\4-b13-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF3CC797-7FC0-4A36-89D9-2B3BDA9FD213}|4-b13-1.cpp\\4-b13-1.cpp.vcxproj|solutionrelative:4-b13-1.cpp\\4-b13-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4-b13-2.c",
+              "DocumentMoniker": "E:\\code\\4-b13\\4-b12-2.c\\4-b13-2.c",
+              "RelativeDocumentMoniker": "4-b12-2.c\\4-b13-2.c",
+              "ToolTip": "E:\\code\\4-b13\\4-b12-2.c\\4-b13-2.c",
+              "RelativeToolTip": "4-b12-2.c\\4-b13-2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-20T06:50:13.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4-b13-1.cpp",
+              "DocumentMoniker": "E:\\code\\4-b13\\4-b13-1.cpp\\4-b13-1.cpp",
+              "RelativeDocumentMoniker": "4-b13-1.cpp\\4-b13-1.cpp",
+              "ToolTip": "E:\\code\\4-b13\\4-b13-1.cpp\\4-b13-1.cpp",
+              "RelativeToolTip": "4-b13-1.cpp\\4-b13-1.cpp",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-20T06:41:22.498Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

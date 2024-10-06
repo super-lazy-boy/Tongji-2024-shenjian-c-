@@ -1,0 +1,6 @@
+﻿  7-b5.cpp
+E:\code\7-b3~5\7-b5.cpp\7-b5.cpp(108,49): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+7-b5.obj : error LNK2019: 无法解析的外部符号 "int __cdecl read_stulist(char const *,struct student *,int)" (?read_stulist@@YAHPEBDPEAUstudent@@H@Z)，函数 "public: int __cdecl stu_list::read(char const *,int)" (?read@stu_list@@QEAAHPEBDH@Z) 中引用了该符号
+7-b5.obj : error LNK2019: 无法解析的外部符号 "int __cdecl print_stulist(char const *,struct student const *,int)" (?print_stulist@@YAHPEBDPEBUstudent@@H@Z)，函数 "public: int __cdecl stu_list::read(char const *,int)" (?read@stu_list@@QEAAHPEBDH@Z) 中引用了该符号
+7-b5-lib_read_stulist.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+E:\code\7-b3~5\x64\Debug\7-b5.cpp.exe : fatal error LNK1120: 2 个无法解析的外部命令

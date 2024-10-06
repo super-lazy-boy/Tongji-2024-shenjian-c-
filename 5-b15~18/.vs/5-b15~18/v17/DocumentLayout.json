@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\5-b15~18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{175382EB-6BC2-45DF-AB7B-BE751BBAEF11}|5-b17.cpp\\5-b17.cpp.vcxproj|E:\\code\\5-b15~18\\5-b17.cpp\\5-b17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{175382EB-6BC2-45DF-AB7B-BE751BBAEF11}|5-b17.cpp\\5-b17.cpp.vcxproj|solutionrelative:5-b17.cpp\\5-b17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702736D4-0538-4B6B-942A-4FE8A00C2976}|5-b16-2.cpp\\5-b16-2.cpp.vcxproj|E:\\code\\5-b15~18\\5-b16-2.cpp\\5-b16-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{702736D4-0538-4B6B-942A-4FE8A00C2976}|5-b16-2.cpp\\5-b16-2.cpp.vcxproj|solutionrelative:5-b16-2.cpp\\5-b16-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3BB88C-6CEA-4CF2-98AE-5D9C51BC89C8}|5-b16-1.c\\5-b16-1.c.vcxproj|E:\\code\\5-b15~18\\5-b16-1.c\\5-b16-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C3BB88C-6CEA-4CF2-98AE-5D9C51BC89C8}|5-b16-1.c\\5-b16-1.c.vcxproj|solutionrelative:5-b16-1.c\\5-b16-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6232A7C-64A8-4AEC-9A83-20FF2D09E1A3}|5-b16-3.cpp\\5-b16-3.cpp.vcxproj|E:\\code\\5-b15~18\\5-b16-3.cpp\\5-b16-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6232A7C-64A8-4AEC-9A83-20FF2D09E1A3}|5-b16-3.cpp\\5-b16-3.cpp.vcxproj|solutionrelative:5-b16-3.cpp\\5-b16-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949A635A-750A-4BD5-8F4A-D342C3EDBD4F}|5-b16-4.c\\5-b16-4.c.vcxproj|E:\\code\\5-b15~18\\5-b16-4.c\\5-b16-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{949A635A-750A-4BD5-8F4A-D342C3EDBD4F}|5-b16-4.c\\5-b16-4.c.vcxproj|solutionrelative:5-b16-4.c\\5-b16-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B69C719A-7F8F-464B-A348-A07C2F0C2AEC}|5-b18.cpp\\5-b18.cpp.vcxproj|E:\\code\\5-b15~18\\5-b18.cpp\\5-b18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B69C719A-7F8F-464B-A348-A07C2F0C2AEC}|5-b18.cpp\\5-b18.cpp.vcxproj|solutionrelative:5-b18.cpp\\5-b18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61DC5C5D-7AF2-4014-8316-D05DF6526F68}|5-b15.cpp\\5-b15.cpp.vcxproj|E:\\code\\5-b15~18\\5-b15.cpp\\5-b15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61DC5C5D-7AF2-4014-8316-D05DF6526F68}|5-b15.cpp\\5-b15.cpp.vcxproj|solutionrelative:5-b15.cpp\\5-b15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "5-b18.cpp",
+              "DocumentMoniker": "E:\\code\\5-b15~18\\5-b18.cpp\\5-b18.cpp",
+              "RelativeDocumentMoniker": "5-b18.cpp\\5-b18.cpp",
+              "ToolTip": "E:\\code\\5-b15~18\\5-b18.cpp\\5-b18.cpp",
+              "RelativeToolTip": "5-b18.cpp\\5-b18.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T07:19:07.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5-b17.cpp",
+              "DocumentMoniker": "E:\\code\\5-b15~18\\5-b17.cpp\\5-b17.cpp",
+              "RelativeDocumentMoniker": "5-b17.cpp\\5-b17.cpp",
+              "ToolTip": "E:\\code\\5-b15~18\\5-b17.cpp\\5-b17.cpp",
+              "RelativeToolTip": "5-b17.cpp\\5-b17.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T06:15:03.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "5-b16-4.c",
+              "DocumentMoniker": "E:\\code\\5-b15~18\\5-b16-4.c\\5-b16-4.c",
+              "RelativeDocumentMoniker": "5-b16-4.c\\5-b16-4.c",
+              "ToolTip": "E:\\code\\5-b15~18\\5-b16-4.c\\5-b16-4.c",
+              "RelativeToolTip": "5-b16-4.c\\5-b16-4.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-19T05:18:40.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "5-b16-3.cpp",
+              "DocumentMoniker": "E:\\code\\5-b15~18\\5-b16-3.cpp\\5-b16-3.cpp",
+              "RelativeDocumentMoniker": "5-b16-3.cpp\\5-b16-3.cpp",
+              "ToolTip": "E:\\code\\5-b15~18\\5-b16-3.cpp\\5-b16-3.cpp",
+              "RelativeToolTip": "5-b16-3.cpp\\5-b16-3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T05:11:18.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5-b16-2.cpp",
+              "DocumentMoniker": "E:\\code\\5-b15~18\\5-b16-2.cpp\\5-b16-2.cpp",
+              "RelativeDocumentMoniker": "5-b16-2.cpp\\5-b16-2.cpp",
+              "ToolTip": "E:\\code\\5-b15~18\\5-b16-2.cpp\\5-b16-2.cpp",
+              "RelativeToolTip": "5-b16-2.cpp\\5-b16-2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T04:00:56.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "5-b16-1.c",
+              "DocumentMoniker": "E:\\code\\5-b15~18\\5-b16-1.c\\5-b16-1.c",
+              "RelativeDocumentMoniker": "5-b16-1.c\\5-b16-1.c",
+              "ToolTip": "E:\\code\\5-b15~18\\5-b16-1.c\\5-b16-1.c",
+              "RelativeToolTip": "5-b16-1.c\\5-b16-1.c",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-19T01:32:01.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "5-b15.cpp",
+              "DocumentMoniker": "E:\\code\\5-b15~18\\5-b15.cpp\\5-b15.cpp",
+              "RelativeDocumentMoniker": "5-b15.cpp\\5-b15.cpp",
+              "ToolTip": "E:\\code\\5-b15~18\\5-b15.cpp\\5-b15.cpp",
+              "RelativeToolTip": "5-b15.cpp\\5-b15.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T01:02:53.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

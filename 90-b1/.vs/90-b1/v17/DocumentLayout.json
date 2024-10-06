@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\90-b1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E401F77-AA56-4E6D-A7A3-170AE4E83D9A}|90-b1\\90-b1.vcxproj|E:\\code\\90-b1\\90-b1\\hanoi_multiple_solutions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E401F77-AA56-4E6D-A7A3-170AE4E83D9A}|90-b1\\90-b1.vcxproj|solutionrelative:90-b1\\hanoi_multiple_solutions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E401F77-AA56-4E6D-A7A3-170AE4E83D9A}|90-b1\\90-b1.vcxproj|E:\\code\\90-b1\\90-b1\\hanoi_menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E401F77-AA56-4E6D-A7A3-170AE4E83D9A}|90-b1\\90-b1.vcxproj|solutionrelative:90-b1\\hanoi_menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E401F77-AA56-4E6D-A7A3-170AE4E83D9A}|90-b1\\90-b1.vcxproj|E:\\code\\90-b1\\90-b1\\hanoi_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E401F77-AA56-4E6D-A7A3-170AE4E83D9A}|90-b1\\90-b1.vcxproj|solutionrelative:90-b1\\hanoi_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E401F77-AA56-4E6D-A7A3-170AE4E83D9A}|90-b1\\90-b1.vcxproj|E:\\code\\90-b1\\90-b1\\cmd_console_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E401F77-AA56-4E6D-A7A3-170AE4E83D9A}|90-b1\\90-b1.vcxproj|solutionrelative:90-b1\\cmd_console_tools.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hanoi_multiple_solutions.cpp",
+              "DocumentMoniker": "E:\\code\\90-b1\\90-b1\\hanoi_multiple_solutions.cpp",
+              "RelativeDocumentMoniker": "90-b1\\hanoi_multiple_solutions.cpp",
+              "ToolTip": "E:\\code\\90-b1\\90-b1\\hanoi_multiple_solutions.cpp",
+              "RelativeToolTip": "90-b1\\hanoi_multiple_solutions.cpp",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T14:00:57.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hanoi_menu.cpp",
+              "DocumentMoniker": "E:\\code\\90-b1\\90-b1\\hanoi_menu.cpp",
+              "RelativeDocumentMoniker": "90-b1\\hanoi_menu.cpp",
+              "ToolTip": "E:\\code\\90-b1\\90-b1\\hanoi_menu.cpp",
+              "RelativeToolTip": "90-b1\\hanoi_menu.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T14:00:54.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hanoi_main.cpp",
+              "DocumentMoniker": "E:\\code\\90-b1\\90-b1\\hanoi_main.cpp",
+              "RelativeDocumentMoniker": "90-b1\\hanoi_main.cpp",
+              "ToolTip": "E:\\code\\90-b1\\90-b1\\hanoi_main.cpp",
+              "RelativeToolTip": "90-b1\\hanoi_main.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T14:00:50.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cmd_console_tools.cpp",
+              "DocumentMoniker": "E:\\code\\90-b1\\90-b1\\cmd_console_tools.cpp",
+              "RelativeDocumentMoniker": "90-b1\\cmd_console_tools.cpp",
+              "ToolTip": "E:\\code\\90-b1\\90-b1\\cmd_console_tools.cpp",
+              "RelativeToolTip": "90-b1\\cmd_console_tools.cpp",
+              "ViewState": "AQIAAIsCAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T14:00:28.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

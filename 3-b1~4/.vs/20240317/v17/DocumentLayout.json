@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\20240317\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43F21AEB-EF72-433F-B446-B81150C0288B}|3-b1-3.c\\3-b1-3.c.vcxproj|E:\\code\\20240317\\3-b1-3.c\\3-b3-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43F21AEB-EF72-433F-B446-B81150C0288B}|3-b1-3.c\\3-b1-3.c.vcxproj|solutionrelative:3-b1-3.c\\3-b3-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED98B69-9989-47BF-B87B-62041A71C738}|20240317\\20240317.vcxproj|E:\\code\\20240317\\20240317\\3-b1-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DED98B69-9989-47BF-B87B-62041A71C738}|20240317\\20240317.vcxproj|solutionrelative:20240317\\3-b1-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2D28B9-4D0A-4F98-B6C3-82E8AF6C6B04}|3-b1-4.cpp\\3-b1-4.cpp.vcxproj|E:\\code\\20240317\\3-b1-4.cpp\\3-b4-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A2D28B9-4D0A-4F98-B6C3-82E8AF6C6B04}|3-b1-4.cpp\\3-b1-4.cpp.vcxproj|solutionrelative:3-b1-4.cpp\\3-b4-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A522C8-345C-4B30-B0DD-530C82F933B7}|3-b1-4.c\\3-b1-4.c.vcxproj|E:\\code\\20240317\\3-b1-4.c\\3-b4-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04A522C8-345C-4B30-B0DD-530C82F933B7}|3-b1-4.c\\3-b1-4.c.vcxproj|solutionrelative:3-b1-4.c\\3-b4-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8E8E27-80C5-4DB1-B8FB-8F5E5E4A4330}|3-b1-3.cpp\\3-b1-3.cpp.vcxproj|E:\\code\\20240317\\3-b1-3.cpp\\3-b3-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B8E8E27-80C5-4DB1-B8FB-8F5E5E4A4330}|3-b1-3.cpp\\3-b1-3.cpp.vcxproj|solutionrelative:3-b1-3.cpp\\3-b3-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8711F5C-D60D-480C-9A0D-85D931163111}|3-b1-2.cpp\\3-b1-2.cpp.vcxproj|E:\\code\\20240317\\3-b1-2.cpp\\3-b2-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8711F5C-D60D-480C-9A0D-85D931163111}|3-b1-2.cpp\\3-b1-2.cpp.vcxproj|solutionrelative:3-b1-2.cpp\\3-b2-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D5DD9F-8E4D-4D64-8A75-679D3C54DD62}|3-b1-2.c\\3-b1-2.c.vcxproj|E:\\code\\20240317\\3-b1-2.c\\3-b2-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45D5DD9F-8E4D-4D64-8A75-679D3C54DD62}|3-b1-2.c\\3-b1-2.c.vcxproj|solutionrelative:3-b1-2.c\\3-b2-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B8543C-650D-446A-A4AA-CDD249AE660C}|3-b1-1.cpp\\3-b1-1.cpp.vcxproj|E:\\code\\20240317\\3-b1-1.cpp\\3-b1-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26B8543C-650D-446A-A4AA-CDD249AE660C}|3-b1-1.cpp\\3-b1-1.cpp.vcxproj|solutionrelative:3-b1-1.cpp\\3-b1-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3-b4-2.cpp",
+              "DocumentMoniker": "E:\\code\\20240317\\3-b1-4.cpp\\3-b4-2.cpp",
+              "RelativeDocumentMoniker": "3-b1-4.cpp\\3-b4-2.cpp",
+              "ToolTip": "E:\\code\\20240317\\3-b1-4.cpp\\3-b4-2.cpp",
+              "RelativeToolTip": "3-b1-4.cpp\\3-b4-2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T15:57:02.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3-b4-1.c",
+              "DocumentMoniker": "E:\\code\\20240317\\3-b1-4.c\\3-b4-1.c",
+              "RelativeDocumentMoniker": "3-b1-4.c\\3-b4-1.c",
+              "ToolTip": "E:\\code\\20240317\\3-b1-4.c\\3-b4-1.c",
+              "RelativeToolTip": "3-b1-4.c\\3-b4-1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-18T15:21:44.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "3-b3-2.cpp",
+              "DocumentMoniker": "E:\\code\\20240317\\3-b1-3.cpp\\3-b3-2.cpp",
+              "RelativeDocumentMoniker": "3-b1-3.cpp\\3-b3-2.cpp",
+              "ToolTip": "E:\\code\\20240317\\3-b1-3.cpp\\3-b3-2.cpp",
+              "RelativeToolTip": "3-b1-3.cpp\\3-b3-2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T14:50:49.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3-b3-1.c",
+              "DocumentMoniker": "E:\\code\\20240317\\3-b1-3.c\\3-b3-1.c",
+              "RelativeDocumentMoniker": "3-b1-3.c\\3-b3-1.c",
+              "ToolTip": "E:\\code\\20240317\\3-b1-3.c\\3-b3-1.c",
+              "RelativeToolTip": "3-b1-3.c\\3-b3-1.c",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAEYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-17T13:04:06.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "3-b2-2.cpp",
+              "DocumentMoniker": "E:\\code\\20240317\\3-b1-2.cpp\\3-b2-2.cpp",
+              "RelativeDocumentMoniker": "3-b1-2.cpp\\3-b2-2.cpp",
+              "ToolTip": "E:\\code\\20240317\\3-b1-2.cpp\\3-b2-2.cpp",
+              "RelativeToolTip": "3-b1-2.cpp\\3-b2-2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-17T12:58:55.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "3-b2-1.c",
+              "DocumentMoniker": "E:\\code\\20240317\\3-b1-2.c\\3-b2-1.c",
+              "RelativeDocumentMoniker": "3-b1-2.c\\3-b2-1.c",
+              "ToolTip": "E:\\code\\20240317\\3-b1-2.c\\3-b2-1.c",
+              "RelativeToolTip": "3-b1-2.c\\3-b2-1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-17T12:01:33.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "3-b1-2.cpp",
+              "DocumentMoniker": "E:\\code\\20240317\\3-b1-1.cpp\\3-b1-2.cpp",
+              "RelativeDocumentMoniker": "3-b1-1.cpp\\3-b1-2.cpp",
+              "ToolTip": "E:\\code\\20240317\\3-b1-1.cpp\\3-b1-2.cpp",
+              "RelativeToolTip": "3-b1-1.cpp\\3-b1-2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-17T11:43:59.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3-b1-1.c",
+              "DocumentMoniker": "E:\\code\\20240317\\20240317\\3-b1-1.c",
+              "RelativeDocumentMoniker": "20240317\\3-b1-1.c",
+              "ToolTip": "E:\\code\\20240317\\20240317\\3-b1-1.c",
+              "RelativeToolTip": "20240317\\3-b1-1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-17T11:19:22.984Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\20240325\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A86CA974-1025-41E9-BBD9-0E900A83D25F}|3-b6-1.c\\3-b6-1.c.vcxproj|E:\\code\\20240325\\3-b6-1.c\\3-b6-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A86CA974-1025-41E9-BBD9-0E900A83D25F}|3-b6-1.c\\3-b6-1.c.vcxproj|solutionrelative:3-b6-1.c\\3-b6-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3864EE63-FD78-4DDF-8357-C2777B01D146}|3-b5-1.c\\3-b5-1.c.vcxproj|E:\\code\\20240325\\3-b5-1.c\\3-b5-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3864EE63-FD78-4DDF-8357-C2777B01D146}|3-b5-1.c\\3-b5-1.c.vcxproj|solutionrelative:3-b5-1.c\\3-b5-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AF2517-0758-4D2D-AB78-D4C1D94333E7}|3-b5-2.cpp\\3-b5-2.cpp.vcxproj|E:\\code\\20240325\\3-b5-2.cpp\\3-b5-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6AF2517-0758-4D2D-AB78-D4C1D94333E7}|3-b5-2.cpp\\3-b5-2.cpp.vcxproj|solutionrelative:3-b5-2.cpp\\3-b5-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE2D6DE-9FEA-4DBE-8CE4-870B32B91BFD}|3-b7-1.c\\3-b7-1.c.vcxproj|E:\\code\\20240325\\3-b7-1.c\\3-b7-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AE2D6DE-9FEA-4DBE-8CE4-870B32B91BFD}|3-b7-1.c\\3-b7-1.c.vcxproj|solutionrelative:3-b7-1.c\\3-b7-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2B6AEB-8C0D-46C9-9E99-C9375E78B8D6}|3-b6-2.cpp\\3-b6-2.cpp.vcxproj|E:\\code\\20240325\\3-b6-2.cpp\\3-b6-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE2B6AEB-8C0D-46C9-9E99-C9375E78B8D6}|3-b6-2.cpp\\3-b6-2.cpp.vcxproj|solutionrelative:3-b6-2.cpp\\3-b6-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455C67E8-4805-4D71-ABD0-18B0AF4D197F}|3-b7-2.cpp\\3-b7-2.cpp.vcxproj|E:\\code\\20240325\\3-b7-2.cpp\\3-b7-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{455C67E8-4805-4D71-ABD0-18B0AF4D197F}|3-b7-2.cpp\\3-b7-2.cpp.vcxproj|solutionrelative:3-b7-2.cpp\\3-b7-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "3-b7-2.cpp",
+              "DocumentMoniker": "E:\\code\\20240325\\3-b7-2.cpp\\3-b7-2.cpp",
+              "RelativeDocumentMoniker": "3-b7-2.cpp\\3-b7-2.cpp",
+              "ToolTip": "E:\\code\\20240325\\3-b7-2.cpp\\3-b7-2.cpp",
+              "RelativeToolTip": "3-b7-2.cpp\\3-b7-2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-28T12:46:40.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3-b7-1.c",
+              "DocumentMoniker": "E:\\code\\20240325\\3-b7-1.c\\3-b7-1.c",
+              "RelativeDocumentMoniker": "3-b7-1.c\\3-b7-1.c",
+              "ToolTip": "E:\\code\\20240325\\3-b7-1.c\\3-b7-1.c",
+              "RelativeToolTip": "3-b7-1.c\\3-b7-1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-28T12:46:39.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3-b5-2.cpp",
+              "DocumentMoniker": "E:\\code\\20240325\\3-b5-2.cpp\\3-b5-2.cpp",
+              "RelativeDocumentMoniker": "3-b5-2.cpp\\3-b5-2.cpp",
+              "ToolTip": "E:\\code\\20240325\\3-b5-2.cpp\\3-b5-2.cpp",
+              "RelativeToolTip": "3-b5-2.cpp\\3-b5-2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-28T12:46:37.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3-b5-1.c",
+              "DocumentMoniker": "E:\\code\\20240325\\3-b5-1.c\\3-b5-1.c",
+              "RelativeDocumentMoniker": "3-b5-1.c\\3-b5-1.c",
+              "ToolTip": "E:\\code\\20240325\\3-b5-1.c\\3-b5-1.c",
+              "RelativeToolTip": "3-b5-1.c\\3-b5-1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-28T12:46:36.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3-b6-1.c",
+              "DocumentMoniker": "E:\\code\\20240325\\3-b6-1.c\\3-b6-1.c",
+              "RelativeDocumentMoniker": "3-b6-1.c\\3-b6-1.c",
+              "ToolTip": "E:\\code\\20240325\\3-b6-1.c\\3-b6-1.c",
+              "RelativeToolTip": "3-b6-1.c\\3-b6-1.c",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T15:23:32.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "3-b6-2.cpp",
+              "DocumentMoniker": "E:\\code\\20240325\\3-b6-2.cpp\\3-b6-2.cpp",
+              "RelativeDocumentMoniker": "3-b6-2.cpp\\3-b6-2.cpp",
+              "ToolTip": "E:\\code\\20240325\\3-b6-2.cpp\\3-b6-2.cpp",
+              "RelativeToolTip": "3-b6-2.cpp\\3-b6-2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T15:23:29.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

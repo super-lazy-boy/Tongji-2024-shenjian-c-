@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\4-b1~4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8E29DB-A260-43C2-BA23-AFFC331F4DE1}|4-b3.cpp\\4-b3.cpp.vcxproj|E:\\code\\4-b1~4\\4-b3.cpp\\4-b3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE8E29DB-A260-43C2-BA23-AFFC331F4DE1}|4-b3.cpp\\4-b3.cpp.vcxproj|solutionrelative:4-b3.cpp\\4-b3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED082C79-46DF-4946-BB60-B44FE6EAA995}|4-b2-2.cpp\\4-b2-2.cpp.vcxproj|E:\\code\\4-b1~4\\4-b2-2.cpp\\4-b2-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED082C79-46DF-4946-BB60-B44FE6EAA995}|4-b2-2.cpp\\4-b2-2.cpp.vcxproj|solutionrelative:4-b2-2.cpp\\4-b2-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7674E75-2D1D-4290-97BF-797B162B4552}|4-b1.cpp\\4-b1.cpp.vcxproj|E:\\code\\4-b1~4\\4-b1.cpp\\4-b1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7674E75-2D1D-4290-97BF-797B162B4552}|4-b1.cpp\\4-b1.cpp.vcxproj|solutionrelative:4-b1.cpp\\4-b1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB478FE-A9CD-4E69-94E8-2848B3051073}|4-b4-1.c\\4-b4-1.c.vcxproj|E:\\code\\4-b1~4\\4-b4-1.c\\4-b4-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DB478FE-A9CD-4E69-94E8-2848B3051073}|4-b4-1.c\\4-b4-1.c.vcxproj|solutionrelative:4-b4-1.c\\4-b4-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C352AEE1-B238-4A4D-93B7-D25B6A7F4D0A}|4-b4-2.cpp\\4-b4-2.cpp.vcxproj|E:\\code\\4-b1~4\\4-b4-2.cpp\\4-b4-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C352AEE1-B238-4A4D-93B7-D25B6A7F4D0A}|4-b4-2.cpp\\4-b4-2.cpp.vcxproj|solutionrelative:4-b4-2.cpp\\4-b4-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155F780F-F7CE-47E2-BB7D-6D3773AC0BE2}|4-b2-1.c\\4-b2-1.c.vcxproj|E:\\code\\4-b1~4\\4-b2-1.c\\4-b2-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{155F780F-F7CE-47E2-BB7D-6D3773AC0BE2}|4-b2-1.c\\4-b2-1.c.vcxproj|solutionrelative:4-b2-1.c\\4-b2-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4-b3.cpp",
+              "DocumentMoniker": "E:\\code\\4-b1~4\\4-b3.cpp\\4-b3.cpp",
+              "RelativeDocumentMoniker": "4-b3.cpp\\4-b3.cpp",
+              "ToolTip": "E:\\code\\4-b1~4\\4-b3.cpp\\4-b3.cpp",
+              "RelativeToolTip": "4-b3.cpp\\4-b3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T12:24:59.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4-b4-1.c",
+              "DocumentMoniker": "E:\\code\\4-b1~4\\4-b4-1.c\\4-b4-1.c",
+              "RelativeDocumentMoniker": "4-b4-1.c\\4-b4-1.c",
+              "ToolTip": "E:\\code\\4-b1~4\\4-b4-1.c\\4-b4-1.c",
+              "RelativeToolTip": "4-b4-1.c\\4-b4-1.c",
+              "ViewState": "AQIAAP4AAAAAAAAAAADwvxABAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-10T12:23:22.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "4-b4-2.cpp",
+              "DocumentMoniker": "E:\\code\\4-b1~4\\4-b4-2.cpp\\4-b4-2.cpp",
+              "RelativeDocumentMoniker": "4-b4-2.cpp\\4-b4-2.cpp",
+              "ToolTip": "E:\\code\\4-b1~4\\4-b4-2.cpp\\4-b4-2.cpp",
+              "RelativeToolTip": "4-b4-2.cpp\\4-b4-2.cpp",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAAAAUBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T12:22:17.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "4-b2-1.c",
+              "DocumentMoniker": "E:\\code\\4-b1~4\\4-b2-1.c\\4-b2-1.c",
+              "RelativeDocumentMoniker": "4-b2-1.c\\4-b2-1.c",
+              "ToolTip": "E:\\code\\4-b1~4\\4-b2-1.c\\4-b2-1.c",
+              "RelativeToolTip": "4-b2-1.c\\4-b2-1.c",
+              "ViewState": "AQIAAEUAAAAAAAAAAADwv0cAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-05T03:40:03.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4-b2-2.cpp",
+              "DocumentMoniker": "E:\\code\\4-b1~4\\4-b2-2.cpp\\4-b2-2.cpp",
+              "RelativeDocumentMoniker": "4-b2-2.cpp\\4-b2-2.cpp",
+              "ToolTip": "E:\\code\\4-b1~4\\4-b2-2.cpp\\4-b2-2.cpp",
+              "RelativeToolTip": "4-b2-2.cpp\\4-b2-2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T02:43:20.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4-b1.cpp",
+              "DocumentMoniker": "E:\\code\\4-b1~4\\4-b1.cpp\\4-b1.cpp",
+              "RelativeDocumentMoniker": "4-b1.cpp\\4-b1.cpp",
+              "ToolTip": "E:\\code\\4-b1~4\\4-b1.cpp\\4-b1.cpp",
+              "RelativeToolTip": "4-b1.cpp\\4-b1.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAHwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-04T12:54:35.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

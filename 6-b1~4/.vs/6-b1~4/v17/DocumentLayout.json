@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\6-b1~4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{425012F6-E99F-40E4-83E4-B011F17BA333}|6-b2.cpp\\6-b2.cpp.vcxproj|E:\\code\\6-b1~4\\6-b2.cpp\\6-b2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{425012F6-E99F-40E4-83E4-B011F17BA333}|6-b2.cpp\\6-b2.cpp.vcxproj|solutionrelative:6-b2.cpp\\6-b2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E955B3-B390-4821-A5EC-9B211BC7105E}|6-b3.cpp\\6-b3.cpp.vcxproj|E:\\code\\6-b1~4\\6-b3.cpp\\6-b3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85E955B3-B390-4821-A5EC-9B211BC7105E}|6-b3.cpp\\6-b3.cpp.vcxproj|solutionrelative:6-b3.cpp\\6-b3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA7CA48-D52F-4394-9B15-1DFDD4758ABF}|6-b1.cpp\\6-b1.cpp.vcxproj|E:\\code\\6-b1~4\\6-b1.cpp\\6-b1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DA7CA48-D52F-4394-9B15-1DFDD4758ABF}|6-b1.cpp\\6-b1.cpp.vcxproj|solutionrelative:6-b1.cpp\\6-b1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\5-b11~14\\5-b12.cpp\\5-b12-sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527999A9-8C59-4F0B-84AE-240FD48B3CCA}|6-b4.cpp\\6-b4.cpp.vcxproj|E:\\code\\6-b1~4\\6-b4.cpp\\6-b4-main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{527999A9-8C59-4F0B-84AE-240FD48B3CCA}|6-b4.cpp\\6-b4.cpp.vcxproj|solutionrelative:6-b4.cpp\\6-b4-main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527999A9-8C59-4F0B-84AE-240FD48B3CCA}|6-b4.cpp\\6-b4.cpp.vcxproj|E:\\code\\6-b1~4\\6-b4.cpp\\6-b4-sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{527999A9-8C59-4F0B-84AE-240FD48B3CCA}|6-b4.cpp\\6-b4.cpp.vcxproj|solutionrelative:6-b4.cpp\\6-b4-sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527999A9-8C59-4F0B-84AE-240FD48B3CCA}|6-b4.cpp\\6-b4.cpp.vcxproj|E:\\code\\6-b1~4\\6-b4.cpp\\6-b4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{527999A9-8C59-4F0B-84AE-240FD48B3CCA}|6-b4.cpp\\6-b4.cpp.vcxproj|solutionrelative:6-b4.cpp\\6-b4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "6-b4-sub.cpp",
+              "DocumentMoniker": "E:\\code\\6-b1~4\\6-b4.cpp\\6-b4-sub.cpp",
+              "RelativeDocumentMoniker": "6-b4.cpp\\6-b4-sub.cpp",
+              "ToolTip": "E:\\code\\6-b1~4\\6-b4.cpp\\6-b4-sub.cpp",
+              "RelativeToolTip": "6-b4.cpp\\6-b4-sub.cpp",
+              "ViewState": "AQIAAG4BAAAAAAAAAAAUwKMBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T03:00:34.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "6-b4-main.cpp",
+              "DocumentMoniker": "E:\\code\\6-b1~4\\6-b4.cpp\\6-b4-main.cpp",
+              "RelativeDocumentMoniker": "6-b4.cpp\\6-b4-main.cpp",
+              "ToolTip": "E:\\code\\6-b1~4\\6-b4.cpp\\6-b4-main.cpp",
+              "RelativeToolTip": "6-b4.cpp\\6-b4-main.cpp",
+              "ViewState": "AQIAAEcCAAAAAAAAAAAAALsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T03:00:34.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "6-b3.cpp",
+              "DocumentMoniker": "E:\\code\\6-b1~4\\6-b3.cpp\\6-b3.cpp",
+              "RelativeDocumentMoniker": "6-b3.cpp\\6-b3.cpp",
+              "ToolTip": "E:\\code\\6-b1~4\\6-b3.cpp\\6-b3.cpp",
+              "RelativeToolTip": "6-b3.cpp\\6-b3.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T02:34:27.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6-b2.cpp",
+              "DocumentMoniker": "E:\\code\\6-b1~4\\6-b2.cpp\\6-b2.cpp",
+              "RelativeDocumentMoniker": "6-b2.cpp\\6-b2.cpp",
+              "ToolTip": "E:\\code\\6-b1~4\\6-b2.cpp\\6-b2.cpp",
+              "RelativeToolTip": "6-b2.cpp\\6-b2.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T02:19:07.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "5-b12-sub.cpp",
+              "DocumentMoniker": "E:\\code\\5-b11~14\\5-b12.cpp\\5-b12-sub.cpp",
+              "RelativeDocumentMoniker": "..\\5-b11~14\\5-b12.cpp\\5-b12-sub.cpp",
+              "ToolTip": "E:\\code\\5-b11~14\\5-b12.cpp\\5-b12-sub.cpp",
+              "RelativeToolTip": "..\\5-b11~14\\5-b12.cpp\\5-b12-sub.cpp",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAAAPcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T03:02:36.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "6-b4.h",
+              "DocumentMoniker": "E:\\code\\6-b1~4\\6-b4.cpp\\6-b4.h",
+              "RelativeDocumentMoniker": "6-b4.cpp\\6-b4.h",
+              "ToolTip": "E:\\code\\6-b1~4\\6-b4.cpp\\6-b4.h",
+              "RelativeToolTip": "6-b4.cpp\\6-b4.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T03:11:25.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "6-b1.cpp",
+              "DocumentMoniker": "E:\\code\\6-b1~4\\6-b1.cpp\\6-b1.cpp",
+              "RelativeDocumentMoniker": "6-b1.cpp\\6-b1.cpp",
+              "ToolTip": "E:\\code\\6-b1~4\\6-b1.cpp\\6-b1.cpp",
+              "RelativeToolTip": "6-b1.cpp\\6-b1.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T00:48:06.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  7-b5.cpp
+7-b5-lib_read_stulist.lib(lib_read_stulist.obj) : warning LNK4099: 未找到 PDB“”(使用“7-b5-lib_read_stulist.lib(lib_read_stulist.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  7-b5.cpp.vcxproj -> E:\code\7-b3~5\Debug\7-b5.cpp.exe
