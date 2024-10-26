@@ -1,0 +1,4 @@
+﻿  game.c
+E:\code\扫雷\扫雷\game.c(109,26): warning C4047: “函数”:“char (*)[11]”与“char”的间接级别不同
+E:\code\扫雷\扫雷\game.c(109,26): warning C4024: “printboard”: 形参和实参 1 的类型不同
+  扫雷.vcxproj -> E:\code\扫雷\x64\Debug\扫雷.exe

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\code\\\u626B\u96F7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BAE3D-F0B3-42A8-9EB0-198522DF91EC}|\u626B\u96F7\\\u626B\u96F7.vcxproj|F:\\code\\\u626B\u96F7\\\u626B\u96F7\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB3BAE3D-F0B3-42A8-9EB0-198522DF91EC}|\u626B\u96F7\\\u626B\u96F7.vcxproj|solutionrelative:\u626B\u96F7\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BAE3D-F0B3-42A8-9EB0-198522DF91EC}|\u626B\u96F7\\\u626B\u96F7.vcxproj|F:\\code\\\u626B\u96F7\\\u626B\u96F7\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB3BAE3D-F0B3-42A8-9EB0-198522DF91EC}|\u626B\u96F7\\\u626B\u96F7.vcxproj|solutionrelative:\u626B\u96F7\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3BAE3D-F0B3-42A8-9EB0-198522DF91EC}|\u626B\u96F7\\\u626B\u96F7.vcxproj|F:\\code\\\u626B\u96F7\\\u626B\u96F7\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB3BAE3D-F0B3-42A8-9EB0-198522DF91EC}|\u626B\u96F7\\\u626B\u96F7.vcxproj|solutionrelative:\u626B\u96F7\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.c",
+              "DocumentMoniker": "F:\\code\\\u626B\u96F7\\\u626B\u96F7\\game.c",
+              "RelativeDocumentMoniker": "\u626B\u96F7\\game.c",
+              "ToolTip": "F:\\code\\\u626B\u96F7\\\u626B\u96F7\\game.c",
+              "RelativeToolTip": "\u626B\u96F7\\game.c",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAADIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-01-25T03:30:36.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.h",
+              "DocumentMoniker": "F:\\code\\\u626B\u96F7\\\u626B\u96F7\\game.h",
+              "RelativeDocumentMoniker": "\u626B\u96F7\\game.h",
+              "ToolTip": "F:\\code\\\u626B\u96F7\\\u626B\u96F7\\game.h",
+              "RelativeToolTip": "\u626B\u96F7\\game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-25T03:30:52.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "F:\\code\\\u626B\u96F7\\\u626B\u96F7\\test.c",
+              "RelativeDocumentMoniker": "\u626B\u96F7\\test.c",
+              "ToolTip": "F:\\code\\\u626B\u96F7\\\u626B\u96F7\\test.c",
+              "RelativeToolTip": "\u626B\u96F7\\test.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-01-24T13:59:12.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
